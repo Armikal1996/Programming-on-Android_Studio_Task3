@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">qqq</string>
+    <string name="example_text">Это простое приложение</string>
+    <string name="example_image_description">Пример изображения</string>
+    <string name="next_button_text">Следующее</string>
+</resources>
